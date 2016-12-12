@@ -1,12 +1,12 @@
-package com.insantani.provider.util;
+package com.andywiranata.provider.util;
 
 import android.content.Context;
 import android.content.SharedPreferences;
 
 
-import com.insantani.provider.BuildConfig;
-import com.insantani.provider.data.DataManager;
-import com.insantani.provider.data.local.PreferencesHelper;
+import com.andywiranata.provider.BuildConfig;
+import com.andywiranata.provider.data.DataManager;
+import com.andywiranata.provider.data.local.PreferencesHelper;
 
 import org.json.JSONException;
 import org.json.JSONObject;
